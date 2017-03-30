@@ -8,7 +8,7 @@ run the command :
 
 npm start
 
-then in diffrend command run the command:
+then in diffrend cmd run the command:
 
 node index.js
 
